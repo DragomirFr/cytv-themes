@@ -27,3 +27,5 @@ choose **Load**, then pick a theme. Repeat for each theme you want.
 - `distributions/` – built packages the TV downloads
 - `cytv-themes.json` – index that lets the TV find every theme from the repository URL
 - `build-dragomir.cjs` – regenerates the wallpapers, icons and CSS for all variants
+
+Keep the latest commit small: the TV reads GitHub's details of the newest commit and rejects replies over 64 KB.
