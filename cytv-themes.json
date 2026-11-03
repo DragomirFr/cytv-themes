@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "repository": "https://github.com/dragomirfr/cytv-themes",
+  "themes": [
+    {
+      "id": "github:dragomirfr/cytv-themes:dragomir-green",
+      "title": "Dragomir Green",
+      "themeVersion": "1.0.0",
+      "path": "distributions/dragomir-green/1.0.0/cytv-theme.json",
+      "sha256": "1ace16506a5caf08910372d3575d841006fe37e0f4d4f39a3c2926623e2b14b2"
+    },
+    {
+      "id": "github:dragomirfr/cytv-themes:dragomir-light",
+      "title": "Dragomir Light",
+      "themeVersion": "1.0.0",
+      "path": "distributions/dragomir-light/1.0.0/cytv-theme.json",
+      "sha256": "07633048d6e8b02c6652f2778aa0f2959a5726851273b35b2f11ba6842cd82d9"
+    },
+    {
+      "id": "github:dragomirfr/cytv-themes:dragomir-oled",
+      "title": "Dragomir OLED",
+      "themeVersion": "1.0.0",
+      "path": "distributions/dragomir-oled/1.0.0/cytv-theme.json",
+      "sha256": "f2055237b5ca77b8c5321828fc5f16b9c3b3b9240650b267370f4e59e41e461a"
+    },
+    {
+      "id": "github:dragomirfr/cytv-themes:dragomir-ribbon",
+      "title": "Dragomir Ribbon",
+      "themeVersion": "1.0.0",
+      "path": "distributions/dragomir-ribbon/1.0.0/cytv-theme.json",
+      "sha256": "13454094edbe8b2890b1d32dde4586e04a371380daa5f1486346963644941cb5"
+    },
+    {
+      "id": "github:dragomirfr/cytv-themes:dragomir-sidebar",
+      "title": "Dragomir Sidebar",
+      "themeVersion": "1.0.0",
+      "path": "distributions/dragomir-sidebar/1.0.0/cytv-theme.json",
+      "sha256": "0e58dba1e4aee3de29f4b7ab8835d979e5d444cb1d3b27d0c1f96ab68c07fe77"
+    },
+    {
+      "id": "github:dragomirfr/cytv-themes:dragomir",
+      "title": "Dragomir",
+      "themeVersion": "1.0.0",
+      "path": "distributions/dragomir/1.0.0/cytv-theme.json",
+      "sha256": "93f4d08140b6c8cb788feb0a898c629f5957c0b3b9b5c030e0b468d6df7d30b1"
+    }
+  ]
+}
