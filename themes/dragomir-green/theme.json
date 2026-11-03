@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "themeApiVersion": 1,
+  "id": "github:dragomirfr/cytv-themes:dragomir-green",
+  "title": "Dragomir Green",
+  "description": "The Dragomir theme with a green glow and green highlights instead of rose.",
+  "author": {
+    "name": "Dragomir",
+    "url": "https://github.com/DragomirFr"
+  },
+  "themeVersion": "1.0.0",
+  "layout": {
+    "preset": "dock-grid",
+    "columns": 6,
+    "spacingScale": 1,
+    "textScale": 1,
+    "focusScale": 1.1
+  },
+  "defaults": {
+    "wallpaperAssetId": "wallpaper",
+    "dim": 0,
+    "accent": "#f4f4f5"
+  },
+  "assets": [
+    {
+      "id": "preview",
+      "path": "assets/preview.png",
+      "mediaType": "image/png",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "id": "icon-inputs",
+      "path": "assets/icon-inputs.png",
+      "mediaType": "image/png",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "id": "icon-inputs-focused",
+      "path": "assets/icon-inputs-focused.png",
+      "mediaType": "image/png",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "id": "icon-network",
+      "path": "assets/icon-network.png",
+      "mediaType": "image/png",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "id": "icon-network-focused",
+      "path": "assets/icon-network-focused.png",
+      "mediaType": "image/png",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "id": "icon-settings",
+      "path": "assets/icon-settings.png",
+      "mediaType": "image/png",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "id": "icon-settings-focused",
+      "path": "assets/icon-settings-focused.png",
+      "mediaType": "image/png",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "id": "wallpaper",
+      "path": "assets/wallpaper.png",
+      "mediaType": "image/png",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "previewAssetId": "preview",
+  "license": {
+    "identifier": "MIT",
+    "textPath": "LICENSE.txt",
+    "creditsPath": "CREDITS.txt"
+  }
+}
